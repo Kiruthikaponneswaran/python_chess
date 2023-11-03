@@ -27,7 +27,7 @@ You need Python installed on your system to run this game.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kiruthikaponneswaran/python_game.git
+   git clone https://github.com/kiruthikaponneswaran/python_chess.git
 
 
 
